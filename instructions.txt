@@ -1,0 +1,9 @@
+1. go to api folder, use npm install
+2. go to ui folder, use npm install
+3. both of tham can be opened using npm start
+
+4. the app is not finished yet, for testing there are 2 cities:
+   madrid and london
+5. some user passes: john 12345 / Dawid 12345 / john2 12345
+
+6. Best way to test now: type madrid, chose date, chose hotel jane 1, press details, reserve or book now
